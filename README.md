@@ -12,4 +12,21 @@
 --
 灰色的樹
 
-![GrayTree](NPC/pic/grayTree.png)
+<img src="NPC/pic/grayTree.jpg" align="left"  width="65">
+
+在人來人往的街道旁，有一顆灰色的樹。
+以神秘的力量吸引了形形色色的人們。
+部位：
+* 樹幹：具有某種力量，能夠吸引各 Mission 。
+* 樹冠：長滿了灰色的樹葉與枝條，似乎能夠當作媒介。
+
+里昂 (Lion)
+
+<img src="NPC/pic/Lion_closeEye.PNG" align="left"  width="65">
+
+代表色：紅色
+獵人擔當。
+似乎是 <font color="red">組織</font> 的人員
+技能：
+ * 看破 (LV 5)
+ * 修正 (LV ??)
