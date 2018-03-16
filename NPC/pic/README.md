@@ -1,0 +1,2 @@
+NPC
+picture box
