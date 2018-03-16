@@ -11,3 +11,5 @@
 角色
 --
 灰色的樹
+
+![GrayTree](NPC/pic/grayTree.png)
